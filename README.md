@@ -87,7 +87,7 @@ The goal of the design is to make data analysis:
 ## ⚠️ Disclaimer
 
 This repository is for **portfolio and showcase purposes only**.  
-All designs are conceptual and created as part of a UI/UX design project for deerx.ai.  
+All designs are conceptual and created as part of a UI/UX design project for queryvision.ai.  
 No proprietary data or source code is included.
 
 ---
