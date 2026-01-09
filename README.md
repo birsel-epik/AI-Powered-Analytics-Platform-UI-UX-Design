@@ -67,6 +67,22 @@ The goal of the design is to make data analysis:
 ## 📸 Project Screenshots
 
 > UI/UX design visuals and screens are included in this repository for showcase purposes.
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Sign-In.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Home-Dark.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Home-Light.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/ASK-AI-Dark.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/ASK-AI-Light.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Dashboard-Dark.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Dashboard-Light.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Company-Management-Dark.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Company-Management-Light.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/User-Management-Dark.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/User-Management-Light.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/xxx.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/xxxx.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Settings-Dark.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Settings-Light.png)
+
 
 ---
 
@@ -79,6 +95,15 @@ No proprietary data or source code is included.
 ---
 
 ## 📬 Contact
+
+If you have any questions or suggestions, you can contact me:
+
+- **E-mail:** [birsel_epik@hotmail.com](mailto:birsel_epik@hotmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/birselepik/](https://www.linkedin.com/in/birselepik/)
+
+---
+
+Thank you for visiting this project!
 
 For questions or collaboration opportunities, feel free to reach out.
 
