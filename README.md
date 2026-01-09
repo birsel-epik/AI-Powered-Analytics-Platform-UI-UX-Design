@@ -67,21 +67,19 @@ The goal of the design is to make data analysis:
 ## 📸 Project Screenshots
 
 > UI/UX design visuals and screens are included in this repository for showcase purposes.
-![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Sign-In.png)
-![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Home-Dark.png)
-![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Home-Light.png)
-![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/ASK-AI-Dark.png)
-![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/ASK-AI-Light.png)
-![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Dashboard-Dark.png)
-![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Dashboard-Light.png)
-![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Company-Management-Dark.png)
-![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Company-Management-Light.png)
-![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/User-Management-Dark.png)
-![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/User-Management-Light.png)
-![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/xxx.png)
-![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/xxxx.png)
-![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Settings-Dark.png)
-![QueryVision.ai UI/UX design](https://github.com/birsel-epik/powerbi-visualizations/blob/main/Settings-Light.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/query-vision-ai/blob/main/Sign-In.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/query-vision-ai/blob/main/Home-Dark.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/query-vision-ai/blob/main/Home-Light.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/query-vision-ai/blob/main/ASK-AI-Dark.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/query-vision-ai/blob/main/ASK-AI-Light.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/query-vision-ai/blob/main/Dashboard-Dark.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/query-vision-ai/blob/main/Dashboard-Light.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/query-vision-ai/blob/main/Company-Management-Dark.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/query-vision-ai/blob/main/Company-Management-Light.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/query-vision-ai/blob/main/User-Management-Dark.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/query-vision-ai/blob/main/User-Management-Light.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/query-vision-ai/blob/main/Settings-Dark.png)
+![QueryVision.ai UI/UX design](https://github.com/birsel-epik/query-vision-ai/blob/main/Settings-Light.png)
 
 
 ---
